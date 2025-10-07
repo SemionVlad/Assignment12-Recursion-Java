@@ -27,8 +27,9 @@ The assignment received a final grade of **95**, indicating high correctness and
 
 ![Final Score](Assigment%20Final%20Score%2095.png)
 
+---
+
 ## 🔒 License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
----
 Created by [SemionVlad](https://github.com/SemionVlad) for academic and portfolio purposes. This repository is intended for **non-commercial**, **educational** sharing only.
