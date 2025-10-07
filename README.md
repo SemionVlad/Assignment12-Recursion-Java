@@ -1,7 +1,7 @@
 # Ex12 – Recursion Assignment (Course 20454)
 
 ## Author
-- **Name**: Shimon Esterkin ([SemionVlad](https://github.com/SemionVlad)) 
+- **Name**: Shimon Esterkin 
 - **ID**: *****2258   
 - **Semester**: 2025B
 
