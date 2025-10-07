@@ -1,5 +1,11 @@
 # Ex12 – Recursion Assignment (Course 20454)
 
+## Author
+- **Name**: Shimon Esterkin  
+- **ID**: *****2258  
+- **Course**: System Programming Laboratory (20465)  
+- **Semester**: 2025A
+
 This repository contains the implementation and testing of **Ex12**, an academic assignment for the Java programming course at the Open University of Israel (Course 20454). The assignment focuses on solving problems using **recursive methods** only, without the use of loops.
 
 ## 📁 Repository Structure
