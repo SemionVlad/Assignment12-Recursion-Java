@@ -23,8 +23,7 @@ The assignment received a final grade of **95**, indicating high correctness and
 ![Final Score](Assigment%20Final%20Score%2095.png)
 
 ## 🔒 License
-
-This project is licensed under the MIT License – see the `LICENSE` file for details.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 📚 Author
 
