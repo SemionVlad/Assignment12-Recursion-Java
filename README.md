@@ -25,6 +25,5 @@ The assignment received a final grade of **95**, indicating high correctness and
 ## 🔒 License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## 📚 Author
-
+---
 Created by [SemionVlad](https://github.com/SemionVlad) for academic and portfolio purposes. This repository is intended for **non-commercial**, **educational** sharing only.
