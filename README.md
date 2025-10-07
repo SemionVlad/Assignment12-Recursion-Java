@@ -5,6 +5,9 @@
 - **ID**: *****2258   
 - **Semester**: 2025B
 
+---
+
+## Overview
 This repository contains the implementation and testing of **Ex12**, an academic assignment for the Java programming course at the Open University of Israel (Course 20454). The assignment focuses on solving problems using **recursive methods** only, without the use of loops.
 
 ## 📁 Repository Structure
