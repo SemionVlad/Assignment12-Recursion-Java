@@ -7,6 +7,7 @@
 ![Course: 20454](https://img.shields.io/badge/Course-20454-999)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+> Java solutions for Ex12 (course 20454): pure recursion only—digit comparison, staircase ways, and sum-of-three search; no loops, clear complexity notes, and a simple student tester.
 
 ## Author
 - **Name**: Shimon Esterkin 
