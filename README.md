@@ -1,4 +1,12 @@
 # Ex12 – Recursion Assignment (Course 20454)
+<!-- Tech & meta badges (static; no CI required) -->
+![Language: Java](https://img.shields.io/badge/Language-Java-red?logo=java)
+![Paradigm: Recursion](https://img.shields.io/badge/Paradigm-Recursion-4c1)
+![Topic: Algorithms](https://img.shields.io/badge/Topic-Algorithms-0aa)
+![Constraint: No Loops](https://img.shields.io/badge/Constraint-No%20Loops-795548)
+![Course: 20454](https://img.shields.io/badge/Course-20454-999)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 ## Author
 - **Name**: Shimon Esterkin 
@@ -31,8 +39,5 @@ The assignment received a final grade of **95**, indicating high correctness and
 ![Final Score](Assigment%20Final%20Score%2095.png)
 
 ---
-
-## 🔒 License
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Created by [SemionVlad](https://github.com/SemionVlad) for academic and portfolio purposes. This repository is intended for **non-commercial**, **educational** sharing only.
